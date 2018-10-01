@@ -4,6 +4,7 @@ public class HolaMundo {
 
 	public static void main(String[] args) {
 		System.out.println("Pruebas en Git and GitHub");
+		System.out.println("Practicando en Java con Visual Studio Code");
 		int a = 5;
 		int b = 6;
 		int c = a + b;
