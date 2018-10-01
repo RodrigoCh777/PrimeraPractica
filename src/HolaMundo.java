@@ -4,7 +4,7 @@ public class HolaMundo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hola Mundo");
+		System.out.println("Pruebas en Git y GitHub");
 		int a = 5;
 		int b = 6;
 		int c = a + b;
@@ -49,7 +49,7 @@ public class HolaMundo {
 		BigDecimal f = new BigDecimal(5);
 		BigDecimal v = new BigDecimal(2);
 		
-		String ope = Operaciones(f, v, "/");
+		String ope = Operaciones(f, v, "-");
 		System.out.print(ope);
 	}
 	
