@@ -3,7 +3,7 @@ import java.math.BigDecimal;
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		System.out.println("ECLIPSE");
+		System.out.println("ECLIPSE ");
 		int a = 5;
 		int b = 6;
 		int c = a + b;
