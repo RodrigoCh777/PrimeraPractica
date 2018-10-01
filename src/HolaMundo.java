@@ -3,10 +3,6 @@ import java.math.BigDecimal;
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("Pruebas en Git y GitHub");
-		System.out.println("Estos son cambios con Eclipse");
-		System.out.println("Java Love");
 		int a = 5;
 		int b = 6;
 		int c = a + b;
