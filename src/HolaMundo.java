@@ -7,7 +7,7 @@ public class HolaMundo {
 		System.out.println("Pruebas en Git and GitHub");
 		System.out.println("Practicando en Java con Visual Studio Code");
 		System.out.println("Practicando en Java con Eclipse");
-		System.out.println("13/10/2018 ");
+		System.out.println("13/10/18");
 		int a = 5;
 		int b = 6;
 		int c = a + b;
